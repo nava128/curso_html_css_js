@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Menu lateral para temarios</title>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+	<div class="contenedor">
+		<aside>
+			<div class="contenedor-temario" id="temario">
+				<h3 class="titulo">Tarea HTML</h3>
+				<ul class="lista">
+					<li class="activo"><a href="#1">1. Indicaciones</a></li>
+					<li><a href="#2">2. Programacion</a></li>
+					<li><a href="#3">3. Mecatronica</a></li>
+					<!-- <li><a href="#4">4. Cuarto Capítulo</a></li>
+					<li><a href="#5">5. Quinto Capítulo</a></li> -->
+				</ul>
+			</div>
+		</aside>
+		<main>
+			<div class="card" id="1">
+				<h3 style="border:2px solid Violet;">1. Crear un sitio web que contenga lo siguiente:</h3>
+				 <br>
+				 <p>Lista de archivos necesarios (Vscode):</p>
+				 <br>
+				  <ul style="list-style-type:disc;">
+					<li>index.html</li>
+					<li>programacion.html</li>
+					<li>mecatronica.html</li>
+				  </ul>
+				 <br>
+				  <p>Utilizar lo visto en la parte de html del curso:</p>
+				  <br>
+				  <ol >
+					  <li>Header(h1, h2,etc)</li>
+					  <li>Parafos (p)</li>
+					  <li>Imagenes (img)</li>
+					  <li>Link (a)</li>
+					  <li>Tablas (Tables)</li>
+					  <li>Listas (Ul,ol)</li>
+					  <li>Atributos (style)</li>
+				  </ol>
+			</div>
+
+			<div class="card" id="2">
+				<h3 style="border:2px solid Violet;">2. Pagina de programacion.html</h3>
+				<br>
+				<p>programacion.html con iframe</p>
+				<br>
+				<iframe id="inlineFrameExample" src="programacion.html" name="iframe_a" height="600px" width="100%" title="Iframe Example"></iframe>
+			</div>
+
+			<div class="card" id="3">
+				<h3 style="border:2px solid Violet;">3. Pagina de mecatronica.html</h3>
+				<br>
+				<p>Mecatronica.html con iframe</p>
+				<br>
+				<iframe id="inlineFrameExample" src="mecatronica.html" name="iframe_a" height="600px" width="100%" title="Iframe Example"></iframe>
+			</div>
+
+			<!-- <div class="card" id="4">
+				<h1>4. Cuarto Capítulo</h1>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio ullam blanditiis sapiente, alias ut optio corrupti harum? Voluptatum obcaecati nobis perferendis similique aperiam impedit, qui ullam. Sint impedit aspernatur cumque.</p>
+			</div>
+			<div class="card" id="5">
+				<h1>5. Quinto Capítulo</h1>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio ullam blanditiis sapiente, alias ut optio corrupti harum? Voluptatum obcaecati nobis perferendis similique aperiam impedit, qui ullam. Sint impedit aspernatur cumque.</p>
+			</div> -->
+		</main>
+	</div>
+	
+	<script src="main.js"></script>
+</body>
+</html>
