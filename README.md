@@ -3,7 +3,7 @@
 
 # Como Hacer un Menú Vertical por Puntos (estilo temario) con HTML y CSS
 
-![CursoHTML, CSS y JS](https://www.w3schools.com/html/default.asp)
+[Curso HTML, CSS y JS](https://www.w3schools.com/html/default.asp)
 
 Por: [Eliseo Nava](https://elprofenava.w3spaces.com/)
 
