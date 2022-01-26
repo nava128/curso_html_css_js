@@ -1,4 +1,4 @@
-### [Tarea HTML pagina web www https://www.w3schools.com/](https://elprofenava.w3spaces.com/)
+### [Tarea HTML pagina web  https://www.w3schools.com/](https://elprofenava.w3spaces.com/)
 
 
 # Como Hacer un Menú Vertical por Puntos (estilo temario) con HTML y CSS
@@ -11,5 +11,5 @@ Por: [Eliseo Nava](https://elprofenava.w3spaces.com/)
 ### [Obtener códigos de color HTML, códigos de color Hex, RGB y HSL](https://htmlcolorcodes.com/es/)
 
 
-# [En github Curso HTML, CSS y JS](https://nava128.github.io/curso_html_css_js/)
+### [Pagina web En github Curso HTML, CSS y JS](https://nava128.github.io/curso_html_css_js/)
 
